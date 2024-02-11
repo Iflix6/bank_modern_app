@@ -14,7 +14,7 @@ import styles from '../style';
           </h4>
           <p className="font-poppins
           font-normal xs:text-[20] text-[15px] xs:leading-[21px] 
-          leading-[26px] text-gradient uppercase ml-3">{stat.value}>{stat.title}</p>
+          leading-[26px] text-gradient uppercase ml-3">{stat.title}</p>
         </div>
         ))}
       </section>
